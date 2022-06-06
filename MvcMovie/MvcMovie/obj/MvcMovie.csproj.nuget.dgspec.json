@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kóba\\Desktop\\studia\\Semestr 4\\APBD\\cw10\\cw10\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {}
+    "C:\\Users\\Kóba\\Desktop\\studia\\Semestr 4\\APBD\\cw10\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kóba\\Desktop\\studia\\Semestr 4\\APBD\\cw10\\cw10\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {
+    "C:\\Users\\Kóba\\Desktop\\studia\\Semestr 4\\APBD\\cw10\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kóba\\Desktop\\studia\\Semestr 4\\APBD\\cw10\\cw10\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "C:\\Users\\Kóba\\Desktop\\studia\\Semestr 4\\APBD\\cw10\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "C:\\Users\\Kóba\\Desktop\\studia\\Semestr 4\\APBD\\cw10\\cw10\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "C:\\Users\\Kóba\\Desktop\\studia\\Semestr 4\\APBD\\cw10\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\Kóba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kóba\\Desktop\\studia\\Semestr 4\\APBD\\cw10\\cw10\\MvcMovie\\MvcMovie\\obj\\",
+        "outputPath": "C:\\Users\\Kóba\\Desktop\\studia\\Semestr 4\\APBD\\cw10\\MvcMovie\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kóba\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
