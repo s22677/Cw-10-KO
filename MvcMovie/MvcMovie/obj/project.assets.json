@@ -7154,11 +7154,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\cw10\\Cw-10-KO\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "Z:\\Cw-10-KO\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "Z:\\cw10\\Cw-10-KO\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "Z:\\Cw-10-KO\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\s22677\\.nuget\\packages\\",
-      "outputPath": "Z:\\cw10\\Cw-10-KO\\MvcMovie\\MvcMovie\\obj\\",
+      "outputPath": "Z:\\Cw-10-KO\\MvcMovie\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
